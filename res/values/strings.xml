@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AllFinish</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="method_des_first">方法一描述:&#x000A;采用FLAG_ACTIVITY_CLEAR_TOP退出整个程序</string>
+    <string name="method_des_second">方法二描述:&#x000A;通过堆栈管理器去管理</string>
+    <string name="method_des_third">方法三描述:&#x000A;全局记录打开的Activity或通过一个自定义的类去管理打开的Activity</string>
+    <string name="method_des_fourth">方法四描述:&#x000A;使用广播机制解决</string>
+    <string name="method_des_fifth">方法五描述:&#x000A;通过Activity跳转中传递requestCode的之后根据onActivityResult来遍历关闭</string>
+
+</resources>
